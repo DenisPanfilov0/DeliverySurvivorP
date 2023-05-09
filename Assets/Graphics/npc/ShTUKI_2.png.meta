@@ -1,0 +1,1489 @@
+fileFormatVersion: 2
+guid: c81f7c02d1494124ba9d316528498edf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShTUKI_2_0
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 771
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77b56351b685d5459dd57c635ffc10d
+      internalID: 2079098900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_1
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 881
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462441ee3ae45d54dbb022ee3e05e0a4
+      internalID: -1259257059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 858
+        width: 199
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbe0dbef49326c4db59579a609afe88
+      internalID: -2009063317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_3
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 857
+        width: 180
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7026e4b8211a83a43bba1971e28db50f
+      internalID: -122652576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_4
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 842
+        width: 175
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3edb0c6f5e70c249a2363b683eda7c8
+      internalID: 1168856003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_5
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 842
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1b2eaaf49f9ab4dac0df1e9ed2473b
+      internalID: -775797294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_6
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 846
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72332fd609a882d40a33257b3d8d1a56
+      internalID: 666616784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 770
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4d82ff9e31fcf408bd93ae54e4b8a4
+      internalID: -1151934126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 770
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b1c9ae7b06e4041b820314630e0950
+      internalID: -1877995797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_9
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 801
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30f9e36766a5e54fbf5509f42a78e64
+      internalID: -1904189285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_10
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 778
+        width: 199
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9710ea6255d7204ebfc9b42f85f0fe4
+      internalID: -1302540968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_11
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 777
+        width: 183
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851cdc1c5b686a942a510f6cbcb62c89
+      internalID: -270660988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_12
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 775
+        width: 299
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b8e869d46294142af1fc1e5fdfe458
+      internalID: -1540991625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 688
+        width: 165
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9381a3f2d6b92bd419e0a24d8e0f89cf
+      internalID: -226303027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 670
+        width: 238
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6cf1e897071e9449ae4d7cacdafaff
+      internalID: -165915574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 661
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dceacde96ac3b4bbf287f5ed5da1bc
+      internalID: -260643507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_16
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 660
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9240b3f8907ba23468e69522695c013f
+      internalID: -636815628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_17
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 663
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5d7d150caf8b848b56696b7e015e00
+      internalID: 8984875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_18
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 700
+        width: 205
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcc4077889aa004fa4636595be20e51
+      internalID: -285177404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_19
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 700
+        width: 183
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff91c4d10e388c540929afdb08adbca0
+      internalID: 106061115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_20
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 698
+        width: 297
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd434be01412c734d937377829f81beb
+      internalID: -1893017703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 596
+        width: 245
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd3e7f43bd78f6488fb54738d8b141d
+      internalID: -1087857639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 600
+        width: 167
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e9ef716e8403c4c9aac40b2c4e8c3b
+      internalID: -1044983665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_23
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 540
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3efda84dc95e8c45a4f61b837cf1b2c
+      internalID: 1524800272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_24
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 541
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3002209e5a6d8b84b89c8b019a3ffc88
+      internalID: -294262924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_25
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 542
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f655537d71426f498aaae1e0d938ef8
+      internalID: -984844624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_26
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 579
+        width: 390
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a408ef800355fa64ea049f2a9a4cbb6f
+      internalID: -121426115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_27
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 596
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17301a8cdbac8c43a79b73ec18f5c9d
+      internalID: 1449033185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_28
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 596
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dec56e31cbb48449e8c57fdf7a3375
+      internalID: -658958557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_29
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 597
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c9723012e3bbe46a566ccc93495d52
+      internalID: -1243293511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_30
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 518
+        width: 238
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f138bad8e3f3af4fbd9e6fc8d8b6166
+      internalID: 2124769219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_31
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 529
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca6ee5f944d3654eb4040d88b73d11b
+      internalID: 68587046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_32
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 474
+        width: 393
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8ca675a389bb643908c3ddf8aaa2bb
+      internalID: 140502433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_33
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 479
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e5c02d8ad38a245a22eb53913487f4
+      internalID: -1593433579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_34
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 477
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea33bb5a46abff47961759f33ec7e2e
+      internalID: 1992578342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_35
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 478
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915c4cfdd1ef36340a835cdf8878161d
+      internalID: 397668592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_36
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 438
+        width: 282
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69ed5ab76d736944b6286de0c3f6539
+      internalID: -981873542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 364
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d04406ebd3e9a42b433c1a776c18da
+      internalID: 2146414219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_38
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 430
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482db5ee192a04640b12ec9859826df3
+      internalID: 96950408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_39
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 429
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb563fc6a8a5b54c9555d5a63521a75
+      internalID: -799624576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_40
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 430
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8be6ddad2990634cbdc1f115caa01e1
+      internalID: 1527443208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_41
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 451
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d683a6dd52bce41917d4f7cfaf846f
+      internalID: 1388218987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 354
+        width: 278
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d1e918b58d35b4199a449ab62d6e0a
+      internalID: -921372580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 316
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b012bdf5bed594f96f5b5dbde76dc1
+      internalID: 1771898398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_44
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 319
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d691b7a1c8a5af44b3732fc6c2722c1
+      internalID: 932591748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_45
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 319
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb1ff6aa4cf4fe4dbd0e1eb81812cfc
+      internalID: -388625684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_46
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 307
+        width: 400
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56105ad6a83053047b38890e63908796
+      internalID: -1078367986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_47
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 380
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcea2ab48709544c898324a371dda99
+      internalID: 399110995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_48
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 384
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd95eca9f9ed5f846b95a7489abfae0d
+      internalID: 876067281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_49
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 380
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d4b16bbe043042a56b35b349f7cbc
+      internalID: -831668575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_50
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 279
+        width: 270
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a85f4b570cf7904cb808a8b6af49c56
+      internalID: -1099703723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_51
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 290
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197e5981bcd4f3144bfb25d0de94f367
+      internalID: 596898639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_52
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 289
+        width: 110
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902404ef03c4dff47aaad61250616f11
+      internalID: -666637589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_53
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 294
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bda3ef458a0d8f4d92db49675856c10
+      internalID: -1785558600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_54
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 204
+        width: 166
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0918ec80244f44ebe8555db3706f65
+      internalID: -210180296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_55
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 206
+        width: 197
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d841a70bf76ec92469d41a87cde14ec0
+      internalID: -1376838796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_56
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 198
+        width: 301
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31350f870312c4d45bc7cde5832308c0
+      internalID: 2017158894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_57
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 162
+        width: 357
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057fef4f1a78a7641b055e1931e279b6
+      internalID: 1370732623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_58
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 198
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0577ea59ba3340d4a9f56ab75086b75f
+      internalID: 1778779812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_59
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 195
+        width: 172
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41adc8f6551e566449384f9559d3c55f
+      internalID: 1595309664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShTUKI_2_60
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 201
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfabe6e427b5184ab2e29ddc31d14be
+      internalID: -920184979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b5984382e38aecd4c8f272f832f3b610
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShTUKI_2_6: 666616784
+      ShTUKI_2_49: -831668575
+      ShTUKI_2_14: -165915574
+      ShTUKI_2_5: -775797294
+      ShTUKI_2_44: 932591748
+      ShTUKI_2_58: 1778779812
+      ShTUKI_2_41: 1388218987
+      ShTUKI_2_27: 1449033185
+      ShTUKI_2_50: -1099703723
+      ShTUKI_2_59: 1595309664
+      ShTUKI_2_13: -226303027
+      ShTUKI_2_30: 2124769219
+      ShTUKI_2_60: -920184979
+      ShTUKI_2_12: -1540991625
+      ShTUKI_2_39: -799624576
+      ShTUKI_2_56: 2017158894
+      ShTUKI_2_24: -294262924
+      ShTUKI_2_8: -1877995797
+      ShTUKI_2_9: -1904189285
+      ShTUKI_2_11: -270660988
+      ShTUKI_2_35: 397668592
+      ShTUKI_2_37: 2146414219
+      ShTUKI_2_40: 1527443208
+      ShTUKI_2_48: 876067281
+      ShTUKI_2_0: 2079098900
+      ShTUKI_2_54: -210180296
+      ShTUKI_2_55: -1376838796
+      ShTUKI_2_28: -658958557
+      ShTUKI_2_38: 96950408
+      ShTUKI_2_17: 8984875
+      ShTUKI_2_43: 1771898398
+      ShTUKI_2_36: -981873542
+      ShTUKI_2_16: -636815628
+      ShTUKI_2_25: -984844624
+      ShTUKI_2_1: -1259257059
+      ShTUKI_2_23: 1524800272
+      ShTUKI_2_47: 399110995
+      ShTUKI_2_51: 596898639
+      ShTUKI_2_15: -260643507
+      ShTUKI_2_29: -1243293511
+      ShTUKI_2_7: -1151934126
+      ShTUKI_2_18: -285177404
+      ShTUKI_2_22: -1044983665
+      ShTUKI_2_46: -1078367986
+      ShTUKI_2_53: -1785558600
+      ShTUKI_2_4: 1168856003
+      ShTUKI_2_26: -121426115
+      ShTUKI_2_57: 1370732623
+      ShTUKI_2_32: 140502433
+      ShTUKI_2_2: -2009063317
+      ShTUKI_2_34: 1992578342
+      ShTUKI_2_31: 68587046
+      ShTUKI_2_19: 106061115
+      ShTUKI_2_3: -122652576
+      ShTUKI_2_21: -1087857639
+      ShTUKI_2_33: -1593433579
+      ShTUKI_2_52: -666637589
+      ShTUKI_2_42: -921372580
+      ShTUKI_2_10: -1302540968
+      ShTUKI_2_45: -388625684
+      ShTUKI_2_20: -1893017703
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
